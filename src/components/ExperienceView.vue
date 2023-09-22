@@ -4,7 +4,7 @@
 		<p class="sub-headline my-5">学歴</p>
 		<div class="mx-auto flex flex-col gap-4">
 			<div class="experience-board">
-				<p class="text-gray-900 text-xl leading-tight font-medium mb-2">2017 - 2025</p>
+				<p class="text-gray-900 text-xl leading-tight font-medium mb-2">2017 - 2026</p>
 				<p class="text-gray-700 text-base mb-4">
 					鹿児島大学 工学部 
 					<span class="md:inline block">
